@@ -1,0 +1,22 @@
+{
+  "name": "HDOJ",
+  "version": "1.0.0",
+  "description": "[![作者](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg)](http://kyonhuang.top)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preupdate": "yuki && git add DataType BFS DP Graphs Others Strings Trees DFS package.json README.md",
+    "update": "git commit -m",
+    "postupdate": "git push origin master" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bighuang624/HDOJ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bighuang624/HDOJ/issues"
+  },
+  "homepage": "https://github.com/bighuang624/HDOJ#readme"
+}
