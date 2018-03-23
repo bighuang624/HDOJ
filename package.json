@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preupdate": "yuki && git add DataType BFS DP Graphs Others Strings Trees DFS package.json README.md",
+    "preupdate": "yuki && git add DataType BFS DP Graphs Others Strings Trees DFS Math package.json README.md",
     "update": "git commit -m",
     "postupdate": "git push origin master" 
   },

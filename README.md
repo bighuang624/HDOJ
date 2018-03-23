@@ -23,6 +23,10 @@
 ### Graphs
 
 
+### Math
+
+* [1722](https://github.com/bighuang624/HDOJ/blob/master/Math/1722.md)
+
 ### Others
 
 
