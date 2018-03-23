@@ -26,6 +26,7 @@
 ### Math
 
 * [1722](https://github.com/bighuang624/HDOJ/blob/master/Math/1722.md)
+* [2136](https://github.com/bighuang624/HDOJ/blob/master/Math/2136.md)
 
 ### Others
 
